@@ -1,0 +1,58 @@
+
+
+body {
+
+	
+	background-color: gray;
+}
+
+
+
+
+header
+{
+text-align: center;
+color: white;
+
+}
+
+
+#content
+{
+	width: 80%;
+	background-color:white;
+	min-height: 500px;
+	margin: auto; /*centrer un bloc */
+
+}
+
+form
+{
+	margin-right:20%;
+	
+	
+
+	
+
+}
+
+
+label
+
+{
+
+    display: block;
+
+    width: 20%;
+
+    
+
+}
+
+
+	img
+	{
+
+		width: 60px;
+		height:80px;
+	}
